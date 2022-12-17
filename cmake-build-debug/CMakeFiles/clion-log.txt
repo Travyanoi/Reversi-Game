@@ -1,0 +1,5 @@
+"F:\CLion 2022.2.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=F:/CLion 2022.2.3/bin/ninja/win/ninja.exe" -G Ninja -S C:\Users\ivan_\Desktop\Reversi_Course-work -B C:\Users\ivan_\Desktop\Reversi_Course-work\cmake-build-debug
+-- Found SFML 2.5.1 in C:/SFML/lib/cmake/SFML
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/ivan_/Desktop/Reversi_Course-work/cmake-build-debug

@@ -1,0 +1,16 @@
+# ninja log v5
+10	84	6929871358388390	CMakeFiles/Reversi.dir/src/Game.cpp.obj	54f0adbdf8fa9d5a
+4	74	6929702121751250	CMakeFiles/Reversi.dir/src/Board.cpp.obj	e687e128fe871473
+9	60	6929701398240815	CMakeFiles/Reversi.dir/Board.cpp.obj	f1595bfcf110f2c4
+4	624	6929701403881095	CMakeFiles/Reversi.dir/main.cpp.obj	fdba611369bb3238
+766	1749	6929945615985517	Reversi.exe	1ca273b6635aa454
+0	158	6929745018698242	build.ninja	64ffa95097c1dac0
+3	765	6929945606223356	CMakeFiles/Reversi.dir/src/main.cpp.obj	4e179687b492b6f5
+4	743	6929945703762905	CMakeFiles/Reversi.dir/src/main.cpp.obj	4e179687b492b6f5
+744	1545	6929945711721196	Reversi.exe	1ca273b6635aa454
+4	920	6929945908937134	CMakeFiles/Reversi.dir/src/main.cpp.obj	4e179687b492b6f5
+921	1758	6929945917261068	Reversi.exe	1ca273b6635aa454
+2	81	6929948787900840	CMakeFiles/Reversi.dir/src/Game.cpp.obj	54f0adbdf8fa9d5a
+81	810	6929948795093044	Reversi.exe	1ca273b6635aa454
+4	72	6929948911033672	CMakeFiles/Reversi.dir/src/Game.cpp.obj	54f0adbdf8fa9d5a
+73	907	6929948919277745	Reversi.exe	1ca273b6635aa454
