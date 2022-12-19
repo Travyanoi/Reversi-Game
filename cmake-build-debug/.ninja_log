@@ -14,3 +14,7 @@
 81	810	6929948795093044	Reversi.exe	1ca273b6635aa454
 4	72	6929948911033672	CMakeFiles/Reversi.dir/src/Game.cpp.obj	54f0adbdf8fa9d5a
 73	907	6929948919277745	Reversi.exe	1ca273b6635aa454
+3	283	6930629069905027	CMakeFiles/Reversi.dir/src/Board.cpp.obj	e687e128fe871473
+34	284	6930629069910173	CMakeFiles/Reversi.dir/src/Game.cpp.obj	54f0adbdf8fa9d5a
+31	772	6930629074801695	CMakeFiles/Reversi.dir/src/main.cpp.obj	4e179687b492b6f5
+772	1705	6930629084071591	Reversi.exe	1ca273b6635aa454
